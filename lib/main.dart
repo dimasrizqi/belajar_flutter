@@ -35,7 +35,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Hello, dimas flutter wakwae',
+          'Hello, dimas flutter wakwae!!!',
         ),
       ),
     );
